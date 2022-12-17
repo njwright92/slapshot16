@@ -60,3 +60,7 @@ a:hover {
 .carousel-item  {
     height: 280px;
 }
+
+footer div  {
+    text-align: center;
+}
