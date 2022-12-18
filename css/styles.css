@@ -14,13 +14,13 @@ body {
 }
 
 .row-content  {
-    border: 3px solid;
-    min-height: 200px;
+    border: .5rem solid;
+    padding: .5rem;
 }
 
 
 footer  {
-    padding: 20px 0;
+    padding: 2rem 0;
     border: solid;
     background-color: whitesmoke;
 }
@@ -32,7 +32,7 @@ h2, h4, h5, p {
 
 h3  {
     text-align: center;
-    font-size: 75px;
+    font-size: 7rem;
 }
 a  {
     color: inherit;
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .carousel-item  {
-    height: 280px;
+    height: 20rem;
 }
 
 footer div  {
