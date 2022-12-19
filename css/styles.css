@@ -1,4 +1,4 @@
-.jumbotron  {
+.jumbotron {
     margin: 0;
     background-image: linear-gradient(to top, silver, gray, blue);
     color: black;
@@ -9,59 +9,56 @@ body {
     background-image: linear-gradient(to bottom, silver, gray, beige);
 }
 
-.navbar  {
+.navbar {
     background-color: navy;
 }
 
-.row-content  {
+.row-content {
+    margin-top: .5rem;
+    margin-bottom: .5rem;
     border: .5rem solid;
     padding: .5rem;
 }
 
 
-footer  {
+footer {
     padding: 2rem 0;
     border: solid;
     background-color: whitesmoke;
 }
 
-h2, h4, h5, p {
+h2,
+h4,
+h5,
+p {
     text-align: center;
-    
+
 }
 
-h3  {
+h3 {
     text-align: center;
     font-size: 7rem;
 }
-a  {
+
+a {
     color: inherit;
 }
+
 a:hover {
     color: inherit;
     background-color: lightslategray;
-  }
+}
 
 .carousel-caption {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.carousel {
-    border: solid black;
-}
-
-#carouselButton, #carouselButton2, #carouselButton3 {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    z-index: 100;
-}
-
-.carousel-item  {
+.carousel-item {
     height: 20rem;
 }
 
-footer div  {
+
+footer div {
     text-align: center;
     align-content: center;
 }
