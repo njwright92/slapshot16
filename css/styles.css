@@ -62,3 +62,7 @@ footer div {
     text-align: center;
     align-content: center;
 }
+
+.btn {
+    margin: 3px;
+}
