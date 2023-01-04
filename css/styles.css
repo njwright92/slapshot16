@@ -1,5 +1,6 @@
 #jumbotron {
     margin: 1;
+    padding: 3;
     background-image: linear-gradient(to top, silver, gray, blue);
     color: black;
 }
