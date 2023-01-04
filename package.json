@@ -31,8 +31,8 @@
     "rimraf": "^3.0.2"
   },
   "dependencies": {
-    "bootstrap": "^4.5.2",
-    "bootstrap-icons": "^1.10.2",
+    "bootstrap": "^5.3.0-alpha1",
+    "bootstrap-icons": "^1.10.3",
     "imagemin-cli": "^5.1.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
