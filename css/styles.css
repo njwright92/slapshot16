@@ -19,6 +19,15 @@ body {
     padding: .5rem;
 }
 
+#special {
+    background-color: rgb(242, 247, 252);
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+    border: .5rem dotted;
+    padding: .5rem;
+    color: royalblue;
+}
+
 
 footer {
     padding: 2rem 0;
