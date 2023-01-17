@@ -30,7 +30,6 @@ body {
     text-align: center;
 }
 
-
 footer {
     padding: 2rem 0;
     border: solid;
@@ -42,7 +41,6 @@ h4,
 h5,
 p {
     text-align: center;
-
 }
 
 h3 {
@@ -66,7 +64,6 @@ a:hover {
 .carousel-item {
     height: 20rem;
 }
-
 
 footer div {
     text-align: center;
