@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/njwright92/slapshot16/issues"
   },
-    "homepage": "https://slapshot16.com/",
+  "homepage": "https://slapshot16.com/",
   "devDependencies": {
     "lite-server": "^2.6.1",
     "onchange": "^7.0.0",
