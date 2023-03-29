@@ -17,4 +17,5 @@ Usemin-cli: A command-line interface for optimizing and processing website asset
 
 The website is hosted through GitHub on Netlify. Visit it at https://slapshot16.com.
 
+License: ISC
 
