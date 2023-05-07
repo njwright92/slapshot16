@@ -4,14 +4,7 @@
 
 Welcome to the SlapShot 16 repository and website! This project is a hockey-themed food truck website that features a menu, image gallery, and text ordering capabilities.
 
-## Table of Contents
-
-#### Libraries
-#### Hosting and Deployment
-#### License
-#### Acknowledgements
-
-This website uses the following libraries to enhance its functionality and appearance:
+## libraries
 
 - Bootstrap: A widely-used CSS framework for building responsive and mobile-first websites.
 - Bootstrap-icons: A comprehensive library of scalable vector icons.
