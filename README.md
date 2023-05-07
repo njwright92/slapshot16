@@ -26,5 +26,5 @@ This project is licensed under the MIT License.
 
 ### Acknowledgements
 
-SlapShot 16 website and repository created and maintained by Nathan Wright © 2023. All rights reserved.
+SlapShot 16 website and repository created and maintained by Nathan Wright © 2022. All rights reserved.
 
