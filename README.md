@@ -1,30 +1,26 @@
-# SlapShot 16 website
+# SlapShot 16 Website (Repository)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7f03eacd-fb93-471e-bf8f-3ec248b7f76a/deploy-status)](https://app.netlify.com/sites/spectacular-crumble-4cf46f/deploys)
-
-Welcome to the SlapShot 16 repository and website! This project is a hockey-themed food truck website that features a menu, image gallery, and text ordering capabilities.
+Welcome to the SlapShot 16 repository! This project was a hockey-themed food truck website that featured a menu, image gallery, and text ordering capabilities. While the website is no longer actively hosted, this repository serves as a showcase of the work and skills involved in its creation.
 
 ## Libraries
 
-- Bootstrap: A widely-used CSS framework for building responsive and mobile-first websites.
+- Bootstrap: For responsive and mobile-first website design.
 - Bootstrap-icons: A comprehensive library of scalable vector icons.
-- Font-awesome-animation: A CSS library that adds animation effects to Font Awesome icons.
-- Imagemin-cli: A command-line interface for optimizing images to reduce file size without compromising quality.
-- jQuery: A popular JavaScript library for simplifying HTML document manipulation, event handling, and animations.
-- Popper.js: A library designed for positioning poppers such as tooltips and popovers within web applications.
-- Usemin-cli: A command-line interface for optimizing and processing website assets, such as HTML, CSS, and JavaScript files.
+- Font-awesome-animation: Adds animation effects to Font Awesome icons.
+- Imagemin-cli: Optimizes images to reduce file size without losing quality.
+- jQuery: Simplifies HTML document manipulation, event handling, and animations.
+- Popper.js: Positions poppers like tooltips and popovers in web apps.
+- Usemin-cli: Optimizes and processes website assets like HTML, CSS, and JS.
 
-## Hosting and Deployment
+## Hosting and Deployment (Historical)
 
-The SlapShot 16 website is hosted on Netlify and deployed from the GitHub repository. Whenever a commit is made to the main branch, Netlify automatically builds and deploys the static website.
-
-You can visit the live website at https://slapshot16.com.
+The SlapShot 16 website was hosted on Netlify and deployed from this GitHub repository. Although it's no longer live, the repository provides insights into the deployment process and the static website's build.
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - feel free to explore, learn, and adapt.
 
 ### Acknowledgements
 
-SlapShot 16 website and repository created and maintained by Nathan Wright © 2022. All rights reserved.
+Although the SlapShot 16 website is no longer active, the journey and learning experience remain invaluable. Repository created and maintained by Nathan Wright © 2022. All rights reserved. Enjoy browsing through the code!
 
